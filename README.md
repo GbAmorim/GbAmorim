@@ -1,4 +1,4 @@
-## Hi there! I'm Gabriel Amorim de Ceia!👋
+## Hi there! I'm Gabriel Amorim!👋
 A Web Frontend developer searching for opportunities.
 - 🌱 I’m currently learning Javascript
 - 📫 How to reach me: gabrielamorimdeceia@gmail.com
