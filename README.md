@@ -2,7 +2,7 @@
 A Web Frontend developer searching for opportunities.
 - 🌱 I’m currently learning Javascript
 - 📫 How to reach me: gabrielamorimdeceia@gmail.com
-<h2>My Soft Skills:</h2>
+<h2>My Hard Skills:</h2>
 <div style="display: inline_block"><br>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="blank"><img align="center" alt="Gabriel-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" /></a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="blank"><img align="center" alt="Gabriel-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /></a>
