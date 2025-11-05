@@ -1,6 +1,6 @@
 ## Hi there! I'm Gabriel Amorim!👋
 A Web Frontend developer searching for opportunities.
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning React
 - 📫 How to reach me: gabrielamorimdeceia@gmail.com
 <h2>My Hard Skills:</h2>
 <div style="display: inline_block"><br>
@@ -10,6 +10,7 @@ A Web Frontend developer searching for opportunities.
 <a href="https://tailwindcss.com/" target="blank"><img align="center" alt="Gabriel-tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /></a>
 <a href="https://sass-lang.com/" target="blank"><img align="center" alt="Gabriel-sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" /></a>
 <a href="https://git-scm.com/doc" target="blank"><img align="center" alt="Gabriel-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /></a>
+ <a href="https://react.dev/" target="blank"><img align="center" alt="Gabriel-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /></a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="blank"><img align="center" alt="Gabriel-javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" /></a>
 </div>
 
