@@ -5,8 +5,8 @@
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GbAmorim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GbAmorim github stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GbAmorim&layout=compact&langs_count=7&theme=dracula" alt="top languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GbAmorim&show_icons=true&theme=merko&include_all_commits=true&count_private=true" alt="Estatísticas de GbAmorim" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GbAmorim&layout=compact&langs_count=7&theme=dark" alt="Linguagens mais usadas" />
 </div>
 
 ##  Sobre Mim
