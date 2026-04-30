@@ -1,68 +1,62 @@
-# 👋 Olá, eu sou Gabriel Amorim
+# Gabriel Amorim 👋
 
-![Frontend Developer](https://img.shields.io/badge/Frontend%20Developer-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Frontend;Interfaces+Modernas&font=Fira%20Code&size=28&pause=1000&center=true&width=600&height=60&palette=%23bb86fc;%2303dac6;%2370d6ff;%23ff6b6b" alt="Typing SVG" />
+</div>
 
-Sou um Desenvolvedor Frontend apaixonado por criar interfaces web responsivas e intuitivas. Com foco em React e tecnologias modernas, ajudo a transformar ideias em experiências digitais incríveis. Sempre em busca de inovação e excelência no código.
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GbAmorim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GbAmorim github stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GbAmorim&layout=compact&langs_count=7&theme=dracula" alt="top languages" />
+</div>
 
----
+##  Sobre Mim
 
-## 📞 Contatos
+Formado em ciência da computação, com grande interesse em desenvolvimento web, frontend, UX/UI design. Trabalhei como líder de células para o The Sandbox Game e e Líder de time de Voxel arte para Smobler, utilizando modelagem 3d para a criação de NFTs. Como líder de célula e Líder de time de Voxel arte, desenvolvi competências de liderança, trabalho em equipe, uso da criatividade, entre outras.
 
+##  Educação
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Universidade%20Veiga%20%20de%20Almeida%20(UVA)-2024-blue?style=for-the-badge&logo=university&logoColor=white" alt="UVA" />
+
+  - **Aprendizado Atual**: React Avançado e Python com IA 🚀
+
+  - [Certificação Front End Impressionador da Hashtag Treinamentos](https://portalhashtag.com/certificado-hashtag/1763588456107x462543701929911900)
+</div>
+
+##  Hard Skills
+
+<div align="center">
+  
+| ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| --- | --- | --- |
+| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
+
+</div>
+
+##  Soft Skills
+
+<div align="center">
+
+- 💬 **Comunicação Assertiva**
+- 🤝 **Gestão de Stakeholders**
+- 🚀 **Liderança de Equipe**
+- 🧠 **Resolução de Problemas**
+- 🎯 **Pensamento Ágil**
+
+</div>
+
+## Contatos
+
+<div align="center">
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielamorimdeceia/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rarami_voxelart/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521983856721)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielamorimdeceia@gmail.com)
 
----
-
-## 🛠️ Tecnologias (Hard Skills)
-
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)&nbsp;
-
-
-### Ferramentas
-
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-
-
-### Versionamento
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 🤝 Soft Skills
-
-- **Comunicação** 📢
-- **Gestão de Stakeholders** 👥
-- **Liderança** 🚀
-- **Trabalho em Equipe** 👨‍💻👩‍💻
-- **Resolução de Problemas** 🧠
-- **Adaptabilidade** 🔄
-- **Gestão de Tempo** ⏰
-
----
-
-## 📚 Educação e Aprendizado Atual
-
-- **Bacharel em Ciência da Computação** - UVA Universidade Veiga de Almeida (Concluído em 2024)
-- **Aprendizado Atual**: React Avançado e Python com IA 🚀
-  - Curso: [Certificação Front End Impressionador da Hashtag Treinamentos]([https://example.com](https://portalhashtag.com/certificado-hashtag/1763588456107x462543701929911900))
-  - Praticando com projetos reais no GitHub.
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielamorim&show_icons=true&theme=radical" alt="Gabriel's GitHub Stats" />
 </div>
 
 <div align="center">
-  Obrigado pela visita! Entre em contato para oportunidades. ✨
+  <br>
+  <img src="https://img.shields.io/badge/⭐%20Obrigado%20por%20visitar!%20⭐-blue?style=for-the-badge" alt="Thank you" />
 </div>
