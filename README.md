@@ -4,11 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Frontend;Interfaces+Modernas&font=Fira%20Code&size=28&pause=1000&center=true&width=600&height=60&palette=%23bb86fc;%2303dac6;%2370d6ff;%23ff6b6b" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GbAmorim&show_icons=true&theme=merko&include_all_commits=true&count_private=true" alt="Estatísticas de GbAmorim" />
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GbAmorim&layout=compact&langs_count=7&theme=dark" alt="Linguagens mais usadas" />
-</div>
-
 ##  Sobre Mim
 
 Formado em ciência da computação, com grande interesse em desenvolvimento web, frontend, UX/UI design. Trabalhei como líder de células para o The Sandbox Game e e Líder de time de Voxel arte para Smobler, utilizando modelagem 3d para a criação de NFTs. Como líder de célula e Líder de time de Voxel arte, desenvolvi competências de liderança, trabalho em equipe, uso da criatividade, entre outras.
@@ -56,7 +51,3 @@ Formado em ciência da computação, com grande interesse em desenvolvimento web
 
 </div>
 
-<div align="center">
-  <br>
-  <img src="https://img.shields.io/badge/⭐%20Obrigado%20por%20visitar!%20⭐-blue?style=for-the-badge" alt="Thank you" />
-</div>
